@@ -1,5 +1,20 @@
-<html>
-<body>
-<h1> Test</h1>
-</body>
+<!DOCTYPE html>
+<html ng-app="BarClient">
+	<head>
+		<base href="/">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<div class="container" ng-view>
+
+		</div>
+		<!-- Kato kato menoun afta panta -->
+		<script type="text/javascript" src="src/vendor/angular/angular.min.js"></script>
+		<script type="text/javascript" src="src/vendor/angular/angular-route.min.js"></script>
+		<script type="text/javascript" src="src/vendor/angular/ui-bootstrap-tpls-0.14.3.min.js"></script>
+
+		<!-- Kai twra ta apps -->
+		<script type="text/javascript" src="src/app.js"></script>
+	</body>
 </html>

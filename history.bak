@@ -1,0 +1,1962 @@
+    1  sudo apt-cache search chromium
+    2  sudo adduser xaris sudo
+    3  su-
+    4  su -
+    5  clear
+    6  ls
+    7  cd $
+    8  cd #
+    9  ls
+   10  clear
+   11  sudo apt-cache search chromium
+   12  sudo apt-cache search chrome
+   13  sudo apt-get install terminator
+   14  sudo apt-cache search telepathy-butterfly
+   15  sudo apt-cache search telepathy
+   16  dpkg-query -f '${binary:Package}\n' -W
+   17  sudo apt-get update
+   18  sudo apt-get upgrade
+   19  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+   20  sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+   21  sudo apt-get update
+   22  sudo apt-get install google-chrome-stable
+   23  sudo apt-cache search chromium
+   24  sudo apt-cache search moc
+   25  sudo apt-cache search ffmpeg
+   26  sudo apt-get install moc moc-ffmpeg-plugin 
+   27  exit
+   28  su -
+   29  su-
+   30  su -
+   31  su -
+   32  sudo apt-get install truecrypt
+   33  sudo apt-get update
+   34  sudo apt-get upgrade
+   35  exit
+   36  exit
+   37  exit
+   38  watch
+   39  wash -i
+   40  aircrack
+   41  aircrack-ng
+   42  alsamixer
+   43  exit
+   44  ls -al
+   45  sudo bash truecrypt-7.2-setup-x64 
+   46  bash truecrypt-7.2-setup-x64 
+   47  sudo apt-get remove libreoffice
+   48  sudo apt-get autoremove
+   49  sudo apt-get remove libreoffice*
+   50  sudo apt-get autoremove
+   51  sudo apt-get remove --purge libreoffice*
+   52  sudo apt-get clean
+   53  sudo apt-get autoremove
+   54  sudo apt-get install -f
+   55  sudo apt-get autoremove
+   56  sudo apt-get autoremove libreoffice
+   57  sudo apt-get autoremove
+   58  sudo apt-get install -f
+   59  sudo apt-get install alacarte argyll argyll-ref bijiben ca-certificates-java cheese coinor-libcbc3
+   60  bclucene-contribs1 libclucene-core1 libcmis-0.4-4 libcoverart0 libdiscid0
+   61  sudo apt-get install alacarte argyll argyll-ref bijiben ca-certificates-java cheese coinor-libcbc3
+   62  bclucene-contribs1 libclucene-core1 libcmis-0.4-4 libcoverart0 libdiscid0
+   63  sudo apt-get install gnome
+   64  sudo apt-get update
+   65  sudo apt-get install gnome
+   66  sudo apt-get install gnome-core 
+   67  sudo apt-get install gnome
+   68  sudo apt-get remove libreoffice*
+   69  sudo apt-get clean
+   70  sudo apt-get autoremove
+   71  sudo apt-get install -f
+   72  sudo apt-get autoremove
+   73  sudo apt-get install gnome
+   74  sudo apt-get update
+   75  sudo aptitude unmarkauto '?reverse-depends(gnome) | ?reverse-recommends(gnome)'
+   76  sudo apt-get remove libreoffice*
+   77  sudo apt-get clean
+   78  sudo apt-get autoremove
+   79  sudo apt-get install-f
+   80  sudo apt-get install -f
+   81  sudo apt-get install gnome
+   82  sudo apt-get install -f
+   83  sudo apt-get update
+   84  sudo apt-get upgrade
+   85  sudo apt-get install -f
+   86  sudo apt-get install gimp
+   87  sudo dpkg -i teamviewer_10.0.46203_i386.deb 
+   88  sudo dpkg -i teamviewer_10.0.46203_amd64.deb 
+   89  sudo apt-get install -f
+   90  sudo dpkg -i teamviewer_10.0.46203_amd64.deb 
+   91  sudo apt-get autoremove 
+   92  sudo apt-get -f install
+   93  sudo dpkg -i teamviewer_10.0.46203_amd64.deb 
+   94  sudo apt-get -f install
+   95  sudo apt-get autoremove 
+   96  sudo dpkg -i teamviewer_10.0.46203_amd64.deb 
+   97  sudo apt-get -f install
+   98  sudo apt-get install -f
+   99  sudo dpkg -i teamviewer_10.0.46203_amd64.deb 
+  100  sudo apt-get -f install
+  101  sudo apt-get autoremove
+  102  sudo apt-get update
+  103  sudo apt-get install teamviewer
+  104  sudo apt-get autoremove
+  105  sudo apt-get -f install
+  106  sudo apt-get install teamviewer
+  107  sudo apt-get clean
+  108  sudo apt-get -f install
+  109  cat wireshark.desktop 
+  110  sudo apt-cache search teamviewer
+  111  sudo apt-get install teamviewer
+  112  sudo apt-get upgrade
+  113  sudo apt-get install teamviewer
+  114  dpkg --add-architecture i386
+  115  sudo dpkg --add-architecture i386
+  116  sudo apt-get update
+  117  sudo nano /etc/apt/sources.list
+  118  sudo apt-get update
+  119  cd Downloads/
+  120  sudo dpkg -i teamviewer_10.0.46203_i386.deb 
+  121  sudo apt-get install - f
+  122  sudo apt-get install -f
+  123  sudo dpkg -i teamviewer_10.0.46203_i386.deb 
+  124  sudo find -name wireshark /
+  125  sudo find wireshark /
+  126  sudo find wireshark /usr/share/icons/
+  127  sudo find wireshark*  /usr/share/icons/
+  128  sudo find *ireshark*  /usr/share/icons/
+  129  sudo find wireshark*  /usr/share/
+  130  sudo find *ireshark*  /usr/share/ >> /home/xaris/Downloads/kk.txt
+  131  sudo find *ireshark*  /usr/share/ > /home/xaris/Downloads/kk.txt
+  132  cd /usr/share/application
+  133  cd /usr/share/applications/
+  134  cat wireshark.desktop 
+  135  cd #
+  136  ls
+  137  cd $
+  138  ckera
+  139  clear
+  140  sudo apt=get cache sublime
+  141  sudo apt-get cache sublime
+  142  sudo apt-cache sublime
+  143  sudo apt-cache search  sublime
+  144  sudo apt-get install tor
+  145  sudo apt-get remove  tor
+  146  sudo apt-get autoremove
+  147  exit
+  148  acpi
+  149  acpi -v
+  150  acpi -i
+  151  acpi -bi
+  152  acpi -b
+  153  acpi -i
+  154  cd Downloads/
+  155  tar -xvjf Sublime\ Text\ 2*.tar.bz2
+  156  sudo mv Sublime\ Text\ 2/ /opt/sublime-text-2/
+  157  sudo ln -s /opt/sublime-text-2 /usr/local/sublime-text-2
+  158  sudo ln -s /usr/local/sublime-text-2/sublime_text /usr/local/bin/sublime_text
+  159  rm Sublime\ Text\ 2*.tar.bz2 
+  160  exit
+  161  exit
+  162  acpi -i
+  163  su -
+  164  nautilus
+  165  sublime
+  166  sublime_text 
+  167  wash
+  168  sudo apt-cache search wash
+  169  youtube-dl
+  170  sudo apt-cache search youtube-dl
+  171  sudo apt-get install youtube-dl
+  172  sudo apt-get update
+  173  sudo apt-get upgrade
+  174  youtube-dl --help
+  175  exit
+  176  exit
+  177  exit
+  178  sudo apt-get remove purge google-chrome-stable 
+  179  sudo apt-get remove -purge google-chrome-stable 
+  180  sudo apt-get remove --purge google-chrome-stable 
+  181  sudo nano /etc/apt/sources.list
+  182  cd /etc/apt/sources.list.d/
+  183  ls
+  184  cd ~
+  185  sudo apt-cache search chromium
+  186  sudo apt-get install  chromium
+  187  update-alternatives --config gnome-www-browser
+  188  sudo update-alternatives --config gnome-www-browser
+  189  exit
+  190  sudo gtk-update-icon-cache /usr/share/icons/
+  191  exit
+  192  sudo apt-cache search libreoffice
+  193  sudo apt-get install libreoffice-l10n-el
+  194  files
+  195  cd Downloads/
+  196  sudo dpkg -i wps-office_9.1.0.4975-a19p1_amd64.deb && sudo apt-get install -f
+  197  sudo apt-get autoremove
+  198  sudo apt-get update
+  199  sudo apt-cache search popcorntime
+  200  sudo apt-cache search popcorn
+  201  sudo apt-get update
+  202  sudo apt-get upgrade 
+  203  sudo apt-get install -f
+  204  youtube-dl -F https://www.youtube.com/watch?v=Hh1uB8bXHJM
+  205  youtube-dl -F 18 https://www.youtube.com/watch?v=Hh1uB8bXHJM
+  206  youtube-dl -f 18 https://www.youtube.com/watch?v=Hh1uB8bXHJM
+  207  exit
+  208  su -
+  209  exit
+  210  exit
+  211  shred *
+  212  find Books\ 2Learn/ -type f -exec shred {} \;
+  213  cd Books\ 2Learn/
+  214  find * -type f -exec shred {} \;
+  215  find -type f -execdir shred -u '{}' \;
+  216  rm -rf
+  217  ls
+  218  rm -rf *
+  219  cd ..
+  220  rm -rf Books\ 2Learn/
+  221  ls
+  222  truecrypt
+  223  sudo apt-get remove truecrypt
+  224  sudo truecrypt-uninstall.sh
+  225  cd Downloads/
+  226  wget http://www.truecrypt.org/download/truecrypt-7.1a-linux-x64.tar.gz
+  227  ls
+  228  exit
+  229  alsamixer
+  230  pulseaudio
+  231  pulseaudio --help
+  232  exit
+  233  exit
+  234  exit
+  235  cd ~/
+  236  ls
+  237  cd books/
+  238  cd 2learn/
+  239  cd Psycology/
+  240  cd Derren\ Brown\ -\ Derren\ Brown\ Collection/
+  241  ls
+  242  pdfcrack -f Derren\ Brown\ Style\ -\ Ultimate\ Effect.pdf 
+  243  pdfcrack -f -s  Derren\ Brown\ Style\ -\ Ultimate\ Effect.pdf 
+  244  pdfcrack -s  Derren\ Brown\ Style\ -\ Ultimate\ Effect.pdf 
+  245  exit
+  246  sudo apt-get install pdfcrack
+  247  gconf-editor
+  248  gconftool
+  249  gconftool-2 
+  250  gnome-shell --version
+  251  randr
+  252  xrand
+  253  randar
+  254  gsettings reset org.gnome.desktop.interface scaling-factor
+  255  gsettings set org.gnome.desktop.interface scaling-factor 1
+  256  gsettings reset org.gnome.desktop.interface scaling-factor
+  257  gsettings set org.gnome.desktop.interface scaling-factor 2
+  258  gsettings set org.gnome.desktop.interface scaling-factor 1
+  259  gsettings set org.gnome.desktop.interface scaling-factor 2
+  260  gsettings reset org.gnome.desktop.interface scaling-factor
+  261  sudo apt-get update && sudo apt-get install -y playonlinux
+  262  exit
+  263  ping 192.168.2.201
+  264  ping 192.168.2.248
+  265  ping aphrodite
+  266  ping 192.168.2.100
+  267  exit
+  268  exit
+  269  mocp
+  270  exit
+  271  bac
+  272  bash stuntrally 
+  273  lspci | grep video
+  274  lspci
+  275  lspci | grep graphic
+  276  lspci | grep VGA
+  277  exit
+  278  mocp
+  279  exit
+  280  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=ywwjSJwJBQw
+  281  cd Music/
+  282  cd Greek\ Various/
+  283  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=pERTd_7Ma44
+  284  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=YkNML7S9HEw
+  285  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=UucRstAHNLQ
+  286  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=kstzqcbiRm0
+  287  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=crpI2xQoJk8
+  288  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=eovxSiv5jcg
+  289  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=vJaCrlVNeY8
+  290  df -h
+  291  exit
+  292  ping 8.8.8.8
+  293  exit
+  294  mocp
+  295  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=BPYH6XAiMyI
+  296  youtube-dl -U
+  297  sudo apt-get update
+  298  sudo apt-get upgrade
+  299  exit
+  300  uname
+  301  uname -a
+  302  exit
+  303  cd /media/xaris/DATAHOLDER/
+  304  ls
+  305  rm S01E01\ -\ eps1.0_hellofriend.mov\ -\ Ehhhh.mkv 
+  306  ls
+  307  cp ~/Downloads/Mr.\ Robot\ S01\ COMPLETE\ Season\ 1\ 720p\ HDTV\ x264\ \[MKV\,AC3\,5.1\]\ Ehhhh/ /media/xaris/DATAHOLDER/
+  308  exit
+  309  wash
+  310  iwconfig
+  311  ifconfig
+  312  ip addr
+  313  airmon-ng start wlan0
+  314  aircrack-ng
+  315  airmon-ng
+  316  sudo apt-cache search airdump
+  317  sudo apt-cache search airdump-ng
+  318  whereis airdump
+  319  whereis airdumpng
+  320  whereis airdump-ng
+  321  cd notes/
+  322  nano tools 
+  323  nano crack_wps
+  324  name
+  325  nano crack_wps 
+  326  nano dos
+  327  nano crack_wps 
+  328  nano dos
+  329  exit
+  330  sudo apt-cache search aircrack
+  331  sudo apt-get install aircrack-ng 
+  332  sudo apt-cache search aircrack
+  333  sudo apt-get install wifite
+  334  sudo apt-cache search aircrack
+  335  sudo apt-cache search kismet
+  336  sudo apt-get install kismet
+  337  sudo apt-cache search wash
+  338  sudo apt-cache search airmon
+  339  sudo apt-cache search airo
+  340  locate aircrack-ng
+  341  aircrack-ng
+  342  airmon-ng
+  343  locate aircrack-ng
+  344  locate airmon-ng
+  345  whereis airmon-ng
+  346  whereis aircrack-ng
+  347  sudo airmon-ng start wlan0
+  348  sudo airdump-ng mon0
+  349  sudo airodump-ng mon0
+  350  airodump-ng mon0
+  351  sudo airodump-ng mon0
+  352  sudo service network-manager stop
+  353  sudo airmon-ng start wlan0
+  354  sudo airodump-ng mon1
+  355  sudo airmon-ng stop mon0
+  356  sudo airmon-ng stop mon1
+  357  sudo airmon-ng 
+  358  sudo service network-manager start
+  359  sudo service network-manager stop
+  360  su -
+  361  exit
+  362  cd notes/
+  363  nano tools
+  364  sudo apt-cache search bully
+  365  sudo apt install build-essential libssl-dev libpcap-dev aircrack-ng make git
+  366  cd ..
+  367  cd bin/
+  368  ls
+  369  git clone https://github.com/Lrs121/bully.git
+  370  cd bully/src/
+  371  make
+  372  make install
+  373  sudo make install
+  374  whereis bully
+  375  sudo service network-manager start
+  376  sudo airmon-ng stop
+  377  sudo airmon-ng stop all
+  378  sudo airmon-ng
+  379  sudo airmon-ng stop mon0
+  380  sudo airmon-ng
+  381  sudo service network-manager stop 
+  382  sudo airmon-ng start wlan0
+  383  sudo airmon-ng stop mon0
+  384  kill 12762
+  385  sudo kill 12762
+  386  sudo kill 12761
+  387  sudo kill 12763
+  388  sudo kill 13160
+  389  sudo airmon-ng start wlan0
+  390  bully -v --help
+  391  bully -v -h
+  392  airmon-ng start wlan0
+  393  network-manager stop
+  394  airodump-ng mon0
+  395  history
+  396  cd ~/notes/
+  397  ls
+  398  nano dos
+  399  clear
+  400  sudo network-manager start
+  401  sudo service network-manager start
+  402  sudo apt-cache search airplay
+  403  whereis airplay-ng
+  404  whereis airoplay-ng
+  405  sudo service network-manager stop
+  406  nano dos
+  407  nano tools 
+  408  exit
+  409  exit
+  410  exit
+  411  ./wifite-ng
+  412  cat wifite-ng 
+  413  wifite-ng
+  414  sudo bash wifite-ng
+  415  cd ..
+  416  rm -rf  wifite-mod-pixiewps-master/
+  417  ls
+  418  wifite 
+  419  sudo ./wifite.py
+  420  cd ..
+  421  whereis wifite
+  422  whereis wifite.py
+  423  wifite
+  424  sudo wifite
+  425  exit
+  426  chmod +x wifite-ng
+  427  ./wifite-ng 
+  428  sudo ./wifite-ng 
+  429  exit
+  430  chmod +x wifiphisher.py 
+  431  ./wifiphisher.py 
+  432  sudo ./wifiphisher.py 
+  433  python
+  434  python3
+  435  python2 wifiphisher.py 
+  436  sudo python2 wifiphisher.py 
+  437  sudo service network-manager start
+  438  sudo apt-get update
+  439  sudo baobap
+  440  sudo baobab
+  441  sudo find /var/log -type f -name "*.gz"
+  442  sudo find /var/log -type f -name "*.gz" | ls
+  443  ls -a *.gz
+  444  sudo ls /var/log  -a *.gz
+  445  sudo ls /var/log  -al *.gz
+  446  sudo ls /var/log  -alh *.gz
+  447  du /var/log
+  448  sudo du /var/log
+  449  sudo du /var/log -h
+  450  dh
+  451  df
+  452  df -h
+  453  sudo find /var/log -type f -name "*.gz" -delete
+  454  sudo find /var/log -type f -name "*.gz" 
+  455  df /var/log -h
+  456  df -h
+  457  df /var/log -h
+  458  df /var/log -ah
+  459  cd /var/log
+  460  du -ah
+  461  ls -alh
+  462  du -ah
+  463  cd ..
+  464  du -ah
+  465  du -h
+  466  cd log
+  467  sudo du -ah
+  468  sudo du . -ah
+  469  cd .
+  470  ls
+  471  ls -lSh
+  472  tail syslog
+  473  sudo tail syslog
+  474  ls -lSh
+  475  sudo tail daemon.log
+  476  cat daemon.log
+  477  sudo cat daemon.log
+  478  su -
+  479  clear
+  480  su -
+  481  exit
+  482  mocp
+  483  cd Downloads/
+  484  ls
+  485  rm pixiewps-master.zip 
+  486  unzip pixiewps-master\ \(1\).zip 
+  487  cd mv pixiewps-master ~/bin/
+  488  cd ..
+  489  cd bin/
+  490  ls
+  491  cd ..
+  492  cd Downloads/
+  493  ls
+  494  rm pixiewps-master\ \(1\).zip 
+  495  cd bin
+  496  cd ~/bin/
+  497  cd pixiewps-master/
+  498  cd src/
+  499  ls
+  500  make
+  501  sudo make install
+  502  cd ..
+  503  git clone https://github.com/t6x/reaver-wps-fork-t6x.git
+  504  ls 
+  505  cd reaver-wps-fork-t6x/
+  506  cd src/
+  507  ./configure 
+  508  make
+  509  sudo make install
+  510  reaver
+  511  cd ..
+  512  sudo ifconfig wlan0 down && sudo ifconfig wlan0 mode monitor && sudo ifconfig wlan0 up
+  513  sudo ifconfig wlan0 down
+  514  sudo ifconfig wlan0 mode monitor
+  515  sudo ifconfig wlan0 up
+  516  sudo service network-manager restart
+  517  ifconfig
+  518  sudo ifconfig
+  519  sudo ifconfig wlan0 up
+  520  sudo iwconfig
+  521  sudo ifconfig
+  522  exit
+  523  ifconfig
+  524  ipp addr
+  525  ip addr
+  526  cd notes/
+  527  nano tools 
+  528  mocp
+  529  nano tools 
+  530  exit
+  531  cd notes/
+  532  cat tools 
+  533  cat crack_wps 
+  534  wash -i mon0
+  535  bully -h
+  536  cat crack_wps 
+  537  exit
+  538  wash -i mon0 -C
+  539  sudo wash -i mon0 -C
+  540  reaver --help
+  541  cd notes/
+  542  cat crack_wps 
+  543  cat tools 
+  544  sudo nano /usr/share/applications/kismet.desktop 
+  545  sudo nano /usr/share/applications/ettercap.desktop 
+  546  sudo nano /usr/share/applications/kismet.desktop 
+  547  exit
+  548  su -
+  549  exit
+  550  sudo service bluetooth start
+  551  sudo service bluetooth status
+  552  hciconfig hci0 up
+  553  hciconfig
+  554  sudo hciconfig
+  555  btscanner
+  556  sudo apt-get install btscanner
+  557  btscanner
+  558  exit
+  559  mocp
+  560  exit
+  561  w:
+  562  w
+  563  netstat
+  564  nslookup
+  565  dig
+  566  free -h
+  567  free -m
+  568  w:
+  569  w
+  570  netstat
+  571  cat /etc/crontab 
+  572  cat cron.daily
+  573  sudo cron.daily
+  574  cat /etc/passwd
+  575  pwd
+  576  ping vioryl.gr
+  577  ping www.vioryl.gr
+  578  tcptraceroute
+  579  sudo apt-get install tcptraceroute
+  580  tcptraceroute www.vioryl.gr
+  581  apt-get install neotrace
+  582  sudo apt-get install neotrace
+  583  traceroute www.vioryl.gr
+  584  su -
+  585  exit
+  586  mocp
+  587  exit
+  588  cd /etc/
+  589  ls chrom*
+  590  ls
+  591  cd chromium.d/
+  592  ls
+  593  cd ..
+  594  ls -al
+  595  cd ~
+  596  ls
+  597  ls -al
+  598  cd .config
+  599  ls
+  600  cd chromium/
+  601  ls
+  602  cd Default/
+  603  ls
+  604  cd Extension
+  605  ls
+  606  cd Extension
+  607  cd Extensions
+  608  ls
+  609  cd bgnkhhnnamicmpeenaelnjfhikgbkllg/
+  610  ls
+  611  cd ..
+  612  acpi -b
+  613  acpi -ib
+  614  w
+  615  sudo w
+  616  httrack
+  617  cd Document
+  618  cd Documents
+  619  cd zerotronic/
+  620  wget -help
+  621  wget --no-check-certificate http://zerotronic.mooo.com/blog/
+  622  wget --no-check-certificate -r  http://zerotronic.mooo.com/blog/
+  623  whois www.zerotronic.mooo.com
+  624  whois www.zerotronic.mooo.com/blog
+  625  whois http://www.zerotronic.mooo.com
+  626  whois www.zerotronic.mooo.com
+  627  whois zerotronic.mooo.com
+  628  whois vioryl.gr
+  629  whois www.vioryl.gr
+  630  whois www.vioryl.com
+  631  TERMS OF USE: You are not authorized to access or query our Whois 
+  632  database through the use of el
+  633  whois -h whois.crsnic.net "zerotronic.mooo.com"
+  634  jwhois -h whois.crsnic.net "zerotronic.mooo.com"
+  635  whois -h whois.crsnic.net "zerotronic.mooo.com"
+  636  dig www.zerotronic.mooo.com
+  637  ping www.zerotronic.mooo.com
+  638  ping http://www.zerotronic.mooo.com
+  639  ping http://www.zerotronic.mooo.com/blog
+  640  ping www.zerotronic.mooo.com/blog
+  641  ping www.zerotronic.mooo.com
+  642  ping www.zerotronic.mooo.com/blog
+  643  ping -h www.zerotronic.mooo.com/blog
+  644  ping http://www.zerotronic.mooo.com/blog
+  645  ping https://www.zerotronic.mooo.com/blog
+  646  ping https://www.zerotronic.mooo.com
+  647  ping www.zerotronic.mooo.com
+  648  ping zerotronic.mooo.com
+  649  traceroute 46.246.159.233
+  650  exit
+  651  su -
+  652  exit
+  653  mocp
+  654  netstat -h
+  655  netstat -i
+  656  netstat -r
+  657  netstat -ri
+  658  netstat -p
+  659  man netstat
+  660  screen
+  661  du
+  662  ls
+  663  du -h
+  664  du -hl
+  665  du -hi
+  666  man du
+  667  dig
+  668  dig www.vioryl.ht
+  669  dig www.vioryl.gr
+  670  cat /etc/shadow
+  671  sudo cat /etc/shadow
+  672  sudo chown xaris:xaris  ~/Documents/zerotronic/whatweb.plugins.txt 
+  673  sudo chown xaris:xaris  ~/Documents/zerotronic/whatweb.techno.txt 
+  674  exit
+  675  su -
+  676  exit
+  677  cd notes/
+  678  cat tools 
+  679  exit
+  680  su -
+  681  exit
+  682  sudo python patch.py 
+  683  shred links 
+  684  shred
+  685  shred --help
+  686  shred links 
+  687  ls
+  688  shred -uvz links 
+  689  cd Downloads/
+  690  ls 
+  691  sudo python patch.py /usr/lib/purple-2/libmsn.so 
+  692  python patch.py 
+  693  ls
+  694  sudo mv /usr/lib/purple-2/libmsn.so ~/bin/libs/
+  695  sudo mv ~/Downloads/libmsn.so /usr/lib/purple-2/
+  696  sudo mv ~/Downloads/libmsn.so.out /usr/lib/purple-2/libmsn.so
+  697  sudo mv ~/bin/libs/libmsn.so /usr/lib/purple-2/
+  698  sudo apt-cache search bigbrownchunx-skype-dbus
+  699  sudo apt-get install pidgin-sype
+  700  sudo apt-cache search empathy-skype
+  701  sudo apt-get install  empathy-skype
+  702  sudo cat /usr/share/applications/
+  703  sudo cat /usr/share/applicationscd ~
+  704  sudo apt-get install nautilus-wipe
+  705  name 192.168.1.49
+  706  hostname 192.168.1.49
+  707  host  192.168.1.49
+  708  host  192.168.1.48
+  709  host  192.168.1.47
+  710  host  192.168.1.46
+  711  host  192.168.1.45
+  712  host  192.168.1.44
+  713  clear
+  714  host 192.168.1.67
+  715  ping kondoula
+  716  ping kondoula.viorylnet.gr
+  717  ping mkondoula.viorylnet.gr
+  718  ping mkondoula
+  719  ping eugenides-pc
+  720  ping eugenides_pc
+  721  exit
+  722  sudo find / -name libmsn.so
+  723  cd bin/
+  724  mkdir 
+  725  mkdir libs
+  726  cd /usr/lib/purple-2/
+  727  ls -al
+  728  nautilus -q
+  729  nautilus
+  730  exit
+  731  sudo apt-cache search nautilus
+  732  dpkg --help
+  733  dpkg -s skype
+  734  dpkg -info skype
+  735  dpkg --info skype
+  736  sudo dpkg --info skype
+  737  sudo apt-cache search skype
+  738  mocp
+  739  exit
+  740  wifite -h
+  741  sudo wifite --help
+  742  exit
+  743  su -
+  744  w
+  745  exit
+  746  wash -i mon0 -C
+  747  sudo wash -i mon0 -C
+  748  cat ~/notes/tools 
+  749  cat ~/notes/crack_wps 
+  750  exit
+  751  sudo service network-manager restart
+  752  sudo service network-manager stop
+  753  sudo service network-manager start
+  754  python epub.py ~/books/h4ck/Hacking\ with\ Kali\ -\ Broad\,\ James\,\ Bindner\,\ Andrew.epub 
+  755  sudo apt-get install BeautifulSoup
+  756  sudo apt-get install python-BeautifulSoup
+  757  python epub.py ~/books/h4ck/Hacking\ with\ Kali\ -\ Broad\,\ James\,\ Bindner\,\ Andrew.epub 
+  758  python epub.py -d  ~/books/h4ck/Hacking\ with\ Kali\ -\ Broad\,\ James\,\ Bindner\,\ Andrew.epub 
+  759  python epub.py ~/books/h4ck/Hacking\ with\ Kali\ -\ Broad\,\ James\,\ Bindner\,\ Andrew.epub 
+  760  cd books/
+  761  ls
+  762  cd h4ck/
+  763  ls
+  764  epub Hacking\ with\ Kali\ -\ Broad\,\ James\,\ Bindner\,\ Andrew.epub 
+  765  sudo apt-get install fbreader
+  766  sudo mount | grep -i vfat
+  767  cd ..
+  768  cd Downloads/
+  769  ls
+  770  dd if=kali-linux-2.0-amd64.iso of=/dev/mmcblk0p1 bs=512
+  771  sudo dd if=kali-linux-2.0-amd64.iso of=/dev/mmcblk0p1 bs=512
+  772  cd /boot/grub/grub.cfg
+  773  sudo nano /boot/grub/grub.cfg
+  774  sudo nano /etc/default/grub 
+  775  cd /etc/grub.d/
+  776  ls
+  777  cat 10_linux 
+  778  sudo mount | grep -i vfat
+  779  ls
+  780  sudo mount | grep -i vfat
+  781  fsck -l
+  782  lsblk
+  783  sudo dd if=kali-linux-2.0-amd64.iso of=/dev/sdb bs=512
+  784  cd Downloads/
+  785  sudo dd if=kali-linux-2.0-amd64.iso of=/dev/sdb bs=512
+  786  clear
+  787  cd ..
+  788  ls -l
+  789  mocp
+  790  exit
+  791  su -
+  792  exit
+  793  exit
+  794  host 192.168.1.44
+  795  clear
+  796  mocp
+  797  exit
+  798  exit
+  799  exit
+  800  htop
+  801  top
+  802  top |grep viber
+  803  top
+  804  kilall Viber
+  805  killall Viber
+  806  top
+  807  killall Viber
+  808  top
+  809  kill 3102
+  810  top
+  811  kill 4066
+  812  sudo poweroff
+  813  top
+  814  cd ~/bin/python/
+  815  ls
+  816  cat clock.py 
+  817  python clock.py
+  818  exit
+  819  cd ~/bin/python/
+  820  python clock
+  821  python clock.py
+  822  sudo apt-get install python-tkinter
+  823  sudo apt-cache search pip
+  824  sudo apt-get install  pip
+  825  sudo apt-get install  python-pip
+  826  pip --help
+  827  pip show
+  828  pip show tkinter
+  829  pip list
+  830  pip install tkinter
+  831  pip --help
+  832  pip search tkinter
+  833  pip search Tkinter
+  834  pip install python-tk
+  835  pip search python-tk
+  836  sudo apt-get install python-tk
+  837  python tk_counter_downl.py
+  838  python tk_counter_downL.py
+  839  ls
+  840  python Dyn_counter.py 
+  841  Dyn_counter.py 
+  842  .Dyn_counter.py 
+  843  ./Dyn_counter.py 
+  844  python Dyn_counter.py 
+  845  exit
+  846  python
+  847  wxit
+  848  exit
+  849  cd bin/python/
+  850  python
+  851  print PATH
+  852  print $PATH
+  853  echo $PATH
+  854  print pythonpath
+  855  print $pythonpath
+  856  echo PYTHONPATH
+  857  echo $PYTHONPATH
+  858  export $PYTHONPATH
+  859  nano ~/.bashrc
+  860  cls
+  861  clear
+  862  python clock.py
+  863  python
+  864  nano clock.py 
+  865  exit
+  866  sudo apt-cache search pygame
+  867  clear
+  868  cd bin/python/
+  869  python Dyn_counter.py 
+  870  exit
+  871  python
+  872  exit
+  873  cd bin
+  874  cd python/
+  875  python clock_analog.py
+  876  sudo pip install pygame
+  877  sudo pip install pygame --allow-external
+  878  sudo pip install --allow-external pygame
+  879  sudo pip --allow-external install pygame
+  880  pip search pygame
+  881  sudo apt-get install python-pygame
+  882  python clock_analog.py
+  883  python Dyn_counter.py 
+  884  exit
+  885  cd bin
+  886  cd python/
+  887  python Dyn_counter.py 
+  888  python counterd.py 
+  889  python clock.py
+  890  exit
+  891  python
+  892  exit
+  893  exit
+  894  openvpn
+  895  sudo apt-cache search openvpn
+  896  sudo apt-get install network-manager-openvpn
+  897  cd ~/bin/vpn/epsilon/
+  898  ls
+  899  sudo openvpn --config epsilon-development.ovpn 
+  900  ping 10.0.14.48
+  901  mocp
+  902  cd bin/vpn/epsilon/
+  903  sudo openvpn --config epsilon-development.ovpn 
+  904  cd bin/vpn/epsilon/
+  905  sudo openvpn --config epsilon-development.ovpn 
+  906  exit
+  907  whereis gcc
+  908  whichis gcc
+  909  which  gcc
+  910  gcc -version
+  911  gcc --version
+  912  python
+  913  cd bin/python/
+  914  nano clock.py
+  915  exit
+  916  cd /home/xaris/bin/python/
+  917  ls
+  918  nano clock.py
+  919  python clock.py
+  920  python Dyn_counter.py 
+  921  python clock.py
+  922  cd ..
+  923  mkdir c
+  924  nano clock.c
+  925  cd c
+  926  nano clock.c 
+  927  nano klain
+  928  exit
+  929  cd bin/c
+  930  gcc clock.c -o clock
+  931  whereis stdio.h
+  932  gcc clock.c
+  933  ls
+  934  cd ..
+  935  mv clock.c c
+  936  cd c
+  937  gcc clock.c -o clock
+  938  mv clock.c c
+  939  gcc clock.c -o clock
+  940  ls
+  941  cd c
+  942  cd ..
+  943  ls
+  944  mv clock.c c
+  945  cd c
+  946  ls
+  947  rm c
+  948  ls
+  949  pwd
+  950  ls
+  951  gcc clock.c -o clock
+  952  ls
+  953  ./clock 
+  954  ls
+  955  ./clock 
+  956  gcc clock.c -o clock
+  957  ./clock 
+  958  gcc clock.c -o clock
+  959  ./clock 
+  960  λσ
+  961  ls
+  962  ls -alt
+  963  gcc clock.c 
+  964  ls
+  965  ./a.out
+  966  rm a.out 
+  967  clock
+  968  ls
+  969  gcc clock.c 
+  970  a.out
+  971  rm a.out 
+  972  ls
+  973  gcc clock.c -o clock
+  974  ./clock 
+  975  gcc clock.c -o clock
+  976  gcc clock.c -o clock
+  977  gcc clock.c -o clock;
+  978  ./clock 
+  979  gcc clock.c -o clock;
+  980  ./clock 
+  981  gcc clock.c -o clock;
+  982  ./clock 
+  983  gcc klain.c 
+  984  ./a.out
+  985  rm a.out 
+  986  rm klain.c 
+  987  exit
+  988  cd bin/
+  989  cd c/
+  990  gcc clock.c -o clock
+  991  ./clock 
+  992  gcc clock.c -o clock
+  993  ./clock 
+  994  python ~/bin/python/clock.py
+  995  python
+  996  cd bin/python/
+  997  python Dyn_counter.py 
+  998  cd bin/vpn/epsilon/
+  999  cls
+ 1000  clear
+ 1001  sudo openvpn --config epsilon-development.ovpn 
+ 1002  cd ..
+ 1003  cd python/
+ 1004  ls
+ 1005  nano clock
+ 1006  mocp
+ 1007  exit
+ 1008  python
+ 1009  nano ~/bin/python/clock.py
+ 1010  nano ~/bin/python/Dyn_counter.py 
+ 1011  python
+ 1012  exit
+ 1013  cd bin/python/
+ 1014  ls
+ 1015  python clock.py
+ 1016  nano clock.py
+ 1017  python clock.py
+ 1018  nano clock.py
+ 1019  python clock.py
+ 1020  nano clock.py
+ 1021  python clock.py
+ 1022  nano clock.py
+ 1023  python clock.py
+ 1024  python
+ 1025  cd ..
+ 1026  cd c
+ 1027  ls
+ 1028  gcc clock.c -o clock
+ 1029  ./clock 
+ 1030  gcc testclock.c -o testclock
+ 1031  ./testclock 
+ 1032  gcc testclock.c -o testclock
+ 1033  ./testclock 
+ 1034  gcc testclock.c -o testclock
+ 1035  ./testclock 
+ 1036  gcc testclock.c -o testclock
+ 1037  ./testclock 
+ 1038  gcc testclock.c -o testclock
+ 1039  gcc dd.c
+ 1040  gcc testclock.c -o testclock
+ 1041  ./testclock 
+ 1042  gcc testclock.c -o testclock
+ 1043  ./testclock 
+ 1044  gcc testclock.c -o testclock
+ 1045  ./testclock 
+ 1046  gcc testclock.c -o testclock
+ 1047  ./testclock 
+ 1048  gcc testclock.c -o testclock
+ 1049  ./testclock 
+ 1050  gcc testclock.c -o testclock
+ 1051  ./testclock 
+ 1052  gcc testclock.c -o testclock
+ 1053  ./testclock 
+ 1054  gcc testclock.c -o testclock
+ 1055  ./testclock 
+ 1056  gcc testclock.c -o testclock
+ 1057  ./testclock 
+ 1058  gcc testclock.c -o testclock
+ 1059  ./testclock 
+ 1060  gcc testclock.c -o testclock
+ 1061  ./testclock 
+ 1062  gcc testclock.c -o testclock
+ 1063  ./testclock 
+ 1064  gcc testclock.c -o testclock
+ 1065  ./testclock 
+ 1066  gcc testclock.c -o testclock && ./testclock 
+ 1067  whereis stdout.h
+ 1068  whereis gcc
+ 1069  whereis stdio.h
+ 1070  whereis limits.h
+ 1071  nano limits.h
+ 1072  sudo nano /usr/include/limits.h
+ 1073  sudo nano /usr/include/clock.h
+ 1074  cd /usr/include/
+ 1075  ls
+ 1076  cat link.h
+ 1077  gcc clock.c -o clock && ./clock 
+ 1078  cd ~/bin/c
+ 1079  gcc clock.c -o clock && ./clock 
+ 1080  50 %7
+ 1081  a=50
+ 1082  b=7
+ 1083  a%b
+ 1084  print a%b
+ 1085  echo a %b
+ 1086  mocp
+ 1087  ls
+ 1088  cd bin/vpn/epsilon/
+ 1089  ls
+ 1090  sudo openvpn --config epsilon-development.ovpn 
+ 1091  exit
+ 1092  exti
+ 1093  ext
+ 1094  exit
+ 1095  exit
+ 1096  mocp
+ 1097  exit
+ 1098  sudo apt-get install liferea
+ 1099  ping 192.168.1.5
+ 1100  exit
+ 1101  gconftool-2 --set /desktop/gnome/shell/windows/workspaces_only_on_primary false --type bool
+ 1102  sudo apt-cache search comix
+ 1103  sudo apt-get install comix
+ 1104  sudo apt-cache search rar
+ 1105  sudo apt-get install unrar
+ 1106  sudo apt-cache search zip
+ 1107  exit
+ 1108  cd bin/
+ 1109  vpn
+ 1110  cd vpn/
+ 1111  sudo openvpn --config epsilon-development.ovpn 
+ 1112  cd epsilon
+ 1113  sudo openvpn --config epsilon-development.ovpn 
+ 1114  ping 8.8.8.8
+ 1115  ipconfig
+ 1116  sudo ipconfig
+ 1117  sudo ifconfig
+ 1118  sudo service network-manager stop
+ 1119  sudo service network-manager start
+ 1120  traceroute 8.8.8.8
+ 1121  sudo ip addr set wlan0 up
+ 1122  sudo ip addr  wlan0 up
+ 1123  ip addr help
+ 1124  ip addr show
+ 1125  ip addr flush
+ 1126  ip addr flush --help
+ 1127  ip addr help
+ 1128  ip addr dev wlan0 ip
+ 1129  ip addr dev wlan0 up
+ 1130  ip addr  wlan0 up
+ 1131  nslookup
+ 1132  ping mx01.1and1.co.uk
+ 1133  tracert 217.72.192.67
+ 1134  traceroute 217.72.192.67
+ 1135  telnet mx01.1and1.co.uk 25
+ 1136  clear
+ 1137  nslookup --help
+ 1138  man nslookup
+ 1139  nslookup
+ 1140  telnet mail.vioryl.gr
+ 1141  telnet mail.vioryl.gr 25
+ 1142  telnet --help
+ 1143  man telnet
+ 1144  exit
+ 1145  nslookup
+ 1146  telnet mx1.123-reg.co.uk 25
+ 1147  mocp
+ 1148  exit
+ 1149  cd bin/
+ 1150  ls
+ 1151  sudo mv webupd8team-popcorntime.list /etc/apt/sources.list.d/
+ 1152  sudo mv  /etc/apt/sources.list.d/webupd8team-popcorntime.list  ~/bin/
+ 1153  ls
+ 1154  exit
+ 1155  nslookup
+ 1156  ψλεαρ
+ 1157  clear
+ 1158  cd /etc/apt/
+ 1159  cd sources.list.d/
+ 1160  ls
+ 1161  exit
+ 1162  sudo apt-get update
+ 1163  sudo apt-get upgrade
+ 1164  exit
+ 1165  sls -la
+ 1166  ls -la
+ 1167  ./Popcorn-Time 
+ 1168  ./install 
+ 1169  sudo ./install 
+ 1170  ./install 
+ 1171  cd ~/.local/share/applications
+ 1172  ls
+ 1173  rm Popcorn-Time.desktop 
+ 1174  whereis popcorn
+ 1175  whereis popcorntime
+ 1176  whereis popcorn-time
+ 1177  car /usr/bin/popcorn-time 
+ 1178  cat /usr/bin/popcorn-time 
+ 1179  cat dos
+ 1180  cd notes/
+ 1181  cat dos 
+ 1182  cat tools 
+ 1183  paste dos tools 
+ 1184  tails dos
+ 1185  tail dos
+ 1186  tail tools 
+ 1187  cat dos > test
+ 1188  cat test
+ 1189  cat tools > test 
+ 1190  cat test
+ 1191  cat dos > ts
+ 1192  cat ts
+ 1193  cat tools >> ts
+ 1194  cat ts
+ 1195  rm ts 
+ 1196  rm test 
+ 1197  past tools dos > test
+ 1198  paste tools dos > test
+ 1199  cat test
+ 1200  sort test 
+ 1201  cat test
+ 1202  sort test 
+ 1203  rm test 
+ 1204  sort paste tools dos > test
+ 1205  paste tools dos | sort > test
+ 1206  cat test
+ 1207  sed 's/sniffer/poutse/g'
+ 1208  sed 's/sniffer/poutse/g'test
+ 1209  sed s/sniffer/poutse/g test > test2
+ 1210  cat test2 
+ 1211  rm test2
+ 1212  rm test 
+ 1213  ls
+ 1214  exit
+ 1215  exit
+ 1216  ls
+ 1217  cd bin/
+ 1218  ls
+ 1219  cd ..
+ 1220  cd notes/
+ 1221  ls
+ 1222  cd dos
+ 1223  past dos tools 
+ 1224  exit
+ 1225  cd notes/
+ 1226  ls
+ 1227  cat tools 
+ 1228  exit
+ 1229  acpi -ib
+ 1230  cc
+ 1231  whois cc
+ 1232  man cc
+ 1233  cc -help
+ 1234  cc --help
+ 1235  cd notes/
+ 1236  ls
+ 1237  cat dos
+ 1238  cat tools
+ 1239  paste dos tools
+ 1240  paste dos tools | sort
+ 1241  man paste
+ 1242  exit
+ 1243  sudo pixiewps
+ 1244  sudo wifite
+ 1245  sudo service network-manager stop
+ 1246  sudo wifite
+ 1247  sudo airmon-ng stop mon0
+ 1248  sudo airmon-ng
+ 1249  sudo wifite
+ 1250  exit
+ 1251  ping 192.168.1.204
+ 1252  ping 192.168.2.204
+ 1253  ping 192.168.2.1
+ 1254  ping 192.168.2.204
+ 1255  mocp
+ 1256  exit
+ 1257  cd bin/vpn/epsilon/
+ 1258  sudo openvpn --config epsilon-development.ovpn 
+ 1259  mocp
+ 1260  exit
+ 1261  sudo apt-get install stockfish
+ 1262  xboard -fUCI -fcp stockfish -sUCI -scp stockfish
+ 1263  stockfish
+ 1264  xboard -fcp stockfish -fUCI
+ 1265  ./xboard -fcp "./polyglot stockfish.ini" -size 80,1,12,0,12,1 -coords -movesound -highlight -clock -xponder -thinking -smpCores 2 -defaultHashSize 512 -fNoOwnBookUCI -defaultPathEGTB "../bases/Nalimov/" -usePolyglotBook true -polyglotBook "../books/performance.bin"
+ 1266  xboard -fcp "./polyglot stockfish.ini" -size 80,1,12,0,12,1 -coords -movesound -highlight -clock -xponder -thinking -smpCores 2 -defaultHashSize 512 -fNoOwnBookUCI -defaultPathEGTB "../bases/Nalimov/" -usePolyglotBook true -polyglotBook "../books/performance.bin"
+ 1267  whereis polyglot
+ 1268  whereis stockfish
+ 1269  cd /usr/games/stockfish
+ 1270  sudo apt-cache search Xboard
+ 1271  sudo apt-get install polyglot 
+ 1272  xboard -fcp stockfish -fUCI
+ 1273  sudo apt-get install xboard
+ 1274  stockfish --help
+ 1275  stockfish --version
+ 1276  sudo apt-get install fruit
+ 1277  sudo apt-cache search SCID
+ 1278  sudo apt-get install scid sced-data
+ 1279  sudo apt-get install scid scid-data
+ 1280  cd /usr/share/scid/books/
+ 1281  ls
+ 1282  ls -al
+ 1283  cat PLACEHOLDER 
+ 1284  sudo apt-cache search SCID
+ 1285  sudo apt-cache search scid-book
+ 1286  sudo apt-cache search chess-book
+ 1287  sudo apt-cache search chess
+ 1288  sudo mv ~/Downloads/scidlet40k.sbk 
+ 1289  sudo mv ~/Downloads/scidlet40k.sbk pwd
+ 1290  ls
+ 1291  sudo mv pwd scidlet40k.sbk 
+ 1292  sudo rm scidlet40k.sbk 
+ 1293  sudo mv ~/Downloads/scidlet40k.sbk `pwd`
+ 1294  ls
+ 1295  ls -al
+ 1296  chmod scidlet40k.sbk 777
+ 1297  chmod 777 scidlet40k.sbk 
+ 1298  chmod scidlet40k.sbk 777
+ 1299  ls -al
+ 1300  chmod 666 scidlet40k.sbk 
+ 1301  ls -al
+ 1302  chmod 777 scidlet40k.sbk 
+ 1303  ls -ah
+ 1304  ls -ahl
+ 1305  sudo mv ~/Downloads/books/* `pwd`
+ 1306  cd ..
+ 1307  cd scidlet/
+ 1308  ls
+ 1309  cd ..
+ 1310  cd books/
+ 1311  sudo mv scidlet40k.sbk /usr/share/scid/scidlet/
+ 1312  cd ../..
+ 1313  cd scid/scidlet/
+ 1314  ls
+ 1315  ls -al
+ 1316  chmod 644 scidlet40k.sbk 
+ 1317  ls -al
+ 1318  sudo chown root:root scidlet40k.sbk 
+ 1319  ls -al
+ 1320  cd ..
+ 1321  ls
+ 1322  cd bases/
+ 1323  ls
+ 1324  exit
+ 1325  w
+ 1326  apw
+ 1327  awk
+ 1328  pwd
+ 1329  cd Downloads/
+ 1330  ls
+ 1331  uzip scidlet40k.zip 
+ 1332  unzip scidlet40k.zip 
+ 1333  ls
+ 1334  echo pwd
+ 1335  echo $pwd
+ 1336  echo $'pwd'
+ 1337  echo '$pwd'
+ 1338  echo `pwd`
+ 1339  unzip Books.zip 
+ 1340  ls -al
+ 1341  cd books/
+ 1342  ls
+ 1343  exity
+ 1344  exit
+ 1345  ping 192.168.2.204
+ 1346  mocp
+ 1347  exit
+ 1348  ping 192.168.2.204
+ 1349  cd bin/vpn/epsilon/
+ 1350  sudo openvpn --config epsilon-development.ovpn 
+ 1351  ping 192.168.2.204
+ 1352  exit
+ 1353  ping 10.0.14.48
+ 1354  ping 192.168.2.204
+ 1355  cd bin/vpn/epsilon/
+ 1356  sudo openvpn --config epsilon-development.ovpn 
+ 1357  ping 192.168.2.204
+ 1358  sudo openvpn --config epsilon-development.ovpn 
+ 1359  mocp
+ 1360  ping 8.8.8.8
+ 1361  host 192.168.1.44
+ 1362  cd bin/vpn/epsilon/
+ 1363  sudo openvpn --config epsilon-development.ovpn 
+ 1364  exit
+ 1365  exit
+ 1366  sudo apt-cache search steam
+ 1367  sudo apt-get update
+ 1368  sudo aptget upgrade
+ 1369  sudo apt-get upgrade
+ 1370  sudo apt-cache search popcorn
+ 1371  sudo apt-cache search popcorn-time
+ 1372  sudo dpkg
+ 1373  sudo apt-cache show popcorn-time
+ 1374  sudo apt-get remove popcorn-time 
+ 1375  sudo apt-cache show steam
+ 1376  exit
+ 1377  sudo apt-cache show steam
+ 1378  sudo apt-get install steam
+ 1379  exit
+ 1380  ping 8.8.8.8
+ 1381  acpi -b
+ 1382  exit
+ 1383  sudo apt-get install python-matplotlib
+ 1384  cd bin/python/
+ 1385  python batman.py 
+ 1386  mocp
+ 1387  killall mocp
+ 1388  killall moc
+ 1389  mocp
+ 1390  exit
+ 1391  python chimp.py 
+ 1392  cd ..
+ 1393  cd bin/python/
+ 1394  nano batman.py 
+ 1395  nano snake.py 
+ 1396  nano bounce
+ 1397  nano bounce.py
+ 1398  cd fgGp/
+ 1399  nano bounce.py
+ 1400  python
+ 1401  nano bounce.py
+ 1402  python
+ 1403  wine KeyGen.exe 
+ 1404  ls
+ 1405  cd Downloads/
+ 1406  ls
+ 1407  mv snake.py ~/bin/python/
+ 1408  cd ..
+ 1409  cd bin/vpn/
+ 1410  ls
+ 1411  cd epsilon/
+ 1412  ls
+ 1413  sudo openvpn --config epsilon-development.ovpn 
+ 1414  exit
+ 1415  mocp
+ 1416  kill 1649
+ 1417  mocp
+ 1418  exit
+ 1419  cd bin/python/
+ 1420  python batman.py 
+ 1421  cd ..
+ 1422  cd c
+ 1423  gcc clock.c -o clock && ./clock 
+ 1424  gcc testclock.c -o testclock && ./testclock 
+ 1425  cd ..
+ 1426  cd python/
+ 1427  ls
+ 1428  python clock
+ 1429  python clock.py
+ 1430  sudo apt-cache show octave
+ 1431  sudo apt-get install octave
+ 1432  clear
+ 1433  python snake.py 
+ 1434  rm snake.py 
+ 1435  whereis pygame
+ 1436  whichis pygame
+ 1437  which pygame
+ 1438  which python-pygame
+ 1439  whereis python-pygame
+ 1440  location python-pygame
+ 1441  whereis python
+ 1442  whereis terminator
+ 1443  python batman.py 
+ 1444  exit
+ 1445  ls
+ 1446  cd ..
+ 1447  ls
+ 1448  nano batman.py 
+ 1449  exit
+ 1450  killall python
+ 1451  cd bin/python/
+ 1452  ls
+ 1453  python batman.py 
+ 1454  exit
+ 1455  exit
+ 1456  exit
+ 1457  cd bin/python/
+ 1458  ls
+ 1459  nano bounce.py.save 
+ 1460  python batman
+ 1461  python batman.py
+ 1462  exit
+ 1463  killall python
+ 1464  kill  -9 python
+ 1465  kill -9 python
+ 1466  ps -aux | grep python
+ 1467  killall | ps -aux | grep python
+ 1468  kill 1606
+ 1469  kill 2169
+ 1470  kill 2281
+ 1471  top
+ 1472  kill 2169
+ 1473  kill -9 2169
+ 1474  youtube-d --help
+ 1475  youtube-dl --help
+ 1476  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=HWi8NPD42Lk
+ 1477  youtube-dl --extract-audio --audio-format mp3
+ 1478  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=mknLaFJZ4v4
+ 1479  youtube-dl -U
+ 1480  sudo apt-get install youtube-dl 
+ 1481  sudo pip install --upgrade youtube_dl
+ 1482  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=mknLaFJZ4v4
+ 1483  cd Music/
+ 1484  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=ef-4Bv5Ng0w&index=2&list=PLkLimRXN6NKzJtX271XFvbLF1K2EodS6e
+ 1485  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=mwP0BquR_C8&index=14&list=PLkLimRXN6NKzJtX271XFvbLF1K2EodS6e
+ 1486  λσ
+ 1487  ls
+ 1488  mv Raign_Knocking_On_Heavens_Door Raign_Knocking_On_Heavens_Door.mp3
+ 1489  ls
+ 1490  ls
+ 1491  mv RAIGN\ -\ Knocking\ On\ Heavens\ Door-mknLaFJZ4v4.mp3  ~/Music/Raign_Knocking_On_Heavens_Door
+ 1492  ls
+ 1493  python
+ 1494  clear
+ 1495  nslookup
+ 1496  exit
+ 1497  cd bin/vpn/epsilon/
+ 1498  sudo openvpn --config epsilon-development.ovpn 
+ 1499  exit
+ 1500  exit
+ 1501  whois mxb-00030d01.gslb.pphosted.com.
+ 1502  python
+ 1503  history | grep mount
+ 1504  ping 10.0.14.48
+ 1505  exit
+ 1506  mocp
+ 1507  cd bin/
+ 1508  cd vpn/epsilon/
+ 1509  sudo openvpn --config epsilon-development.ovpn 
+ 1510  exit
+ 1511  exit
+ 1512  exit
+ 1513  cd bin/vpn/epsilon/
+ 1514  sudo openvpn --config epsilon-development.ovpn 
+ 1515  exit
+ 1516  sudo apt-get remove pychess
+ 1517  cd bin/vpn/epsilon/
+ 1518  sudo openvpn --config epsilon-development.ovpn 
+ 1519  exit
+ 1520  ping 10.0.14.48
+ 1521  -fUCI
+ 1522  -fcp stockfish
+ 1523  -sUCI
+ 1524  -scp stockfish
+ 1525  xboard -fUCI -fcp stockfish -sUCI stockfish
+ 1526  sudo apt-get remove scid
+ 1527  sudo apt-cache show licanberra*
+ 1528  sudo apt-cache show libcanberra*
+ 1529  sudo apt-get install libcanberra-gtk-module
+ 1530  xboard -fUCI -fcp stockfish -sUCI stockfish
+ 1531  xboard -fUCI -fcp stockfish -sUCI stockfish -usePolyglotBook true
+ 1532  xboard -fUCI -fcp stockfish -sUCI -scp stockfish
+ 1533  ping 10.0.14.48
+ 1534  sudo apt-get install pychess
+ 1535  eit
+ 1536  exit
+ 1537  sudo nano  /etc/xboard/xboard.conf
+ 1538  xboard
+ 1539  sudo nano  /etc/xboard/xboard.conf
+ 1540  nano ~/.xboardrc
+ 1541  xboard
+ 1542  ping 8.8.8.8
+ 1543  ping 10.0.14.48
+ 1544  sudo nano  /etc/xboard/xboard.conf
+ 1545  nano ~/.xboardrc
+ 1546  xboard
+ 1547  sudo nano  /etc/xboard/xboard.conf
+ 1548  xboard
+ 1549  exit
+ 1550  sudo apt-get install crafty
+ 1551  xboard 
+ 1552  sudo nano /etc/xboard/xboard.conf 
+ 1553  xboard 
+ 1554  exit
+ 1555  sudo apt-get remove xboard
+ 1556  sudo apt-get update && apt-get install xboard
+ 1557  sudo apt-get update && sudo apt-get install xboard
+ 1558  sudo apt-get autoremove
+ 1559  sudo apt-get update
+ 1560  sudo apt-get upgrafe
+ 1561  sudo apt-get upgrade
+ 1562  sudo apt-get autoremove
+ 1563  xboard
+ 1564  gksudo gedit /usr/share/applications/defaults.list
+ 1565  sudo gedit /usr/share/applications/defaults.list
+ 1566  sudo gedit ~/.local/share/applications/mimeapps.list
+ 1567  gedit ~/.local/share/applications/mimeapps.list
+ 1568  sudo nano /etc/xboard/xboard.conf 
+ 1569  xboard 
+ 1570  nao .xboardrc 
+ 1571  nano .xboardrc 
+ 1572  xboard 
+ 1573  nano .xboardrc 
+ 1574  xboard 
+ 1575  sudo apt-get install libcanberra-gtk-module:i386
+ 1576  xboard 
+ 1577  xboard --help
+ 1578  xboard -moveHistoryUp TF* 
+ 1579  xboard -nogui
+ 1580  xboard -noGui
+ 1581  xboard -noGUI
+ 1582  xboard
+ 1583  whereis crafty
+ 1584  sudo apt-get remove --purge xboard
+ 1585  sudo apt-get autoremove
+ 1586  sudo apt-get install xboard
+ 1587  sudo apt-cache search xboard
+ 1588  sudo apt-get install chessx 
+ 1589  chessx
+ 1590  sudo apt-get remove chessx 
+ 1591  sudo apt-get autoremove
+ 1592  sudo xboard 
+ 1593  xboard 
+ 1594  xboard  -noGUI
+ 1595  xboard  -carfty
+ 1596  xboard  -crafty
+ 1597  xboard  -Crafty
+ 1598  xboard
+ 1599  history grep | Gtk
+ 1600  history | grep  Gtk
+ 1601  history | grep  Gtk*
+ 1602  history | grep  *Gtk*
+ 1603  nano history
+ 1604  gedit history
+ 1605  whereis history
+ 1606  sudo poweroff
+ 1607  wifite
+ 1608  sudo wifite
+ 1609  sudo service network-manager stop
+ 1610  sudo wifite
+ 1611  airmon-ng
+ 1612  sudo airmon-ng
+ 1613  sudo airmon-ng stop mon0
+ 1614  sudo wifite
+ 1615  sudo airmon-ng stop mon0
+ 1616  sudo service network-manager start
+ 1617  startx
+ 1618  exit
+ 1619  nano ./bashrc
+ 1620  nano ~/.bashrc 
+ 1621  youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=qhea1U3v1_o
+ 1622  cd bin
+ 1623  ls
+ 1624  mkdir bash
+ 1625  cd bash/
+ 1626  ls
+ 1627  nano utube-dl.sh
+ 1628  chmod +x utube-dl.sh 
+ 1629  ./utube-dl.sh 
+ 1630  nano utube-dl.sh
+ 1631  cd ~/Music/
+ 1632  ls
+ 1633  ~/bin/bash/utube-dl.sh 
+ 1634  youtube-dl -F https://www.youtube.com/watch?v=ZVDV_4xDh4o
+ 1635  youtube-dl -f 137 https://www.youtube.com/watch?v=ZVDV_4xDh4o
+ 1636  ~./bin/bash/utube-dl.sh 
+ 1637  ./~/bin/bash/utube-dl.sh 
+ 1638  ~/bin/bash/./utube-dl.sh 
+ 1639  cd ~/bin/bash/
+ 1640  ls
+ 1641  nano utube-dl.sh 
+ 1642  ./utube-dl.sh 
+ 1643  nano utube-dl.sh 
+ 1644  ./utube-dl.sh 
+ 1645  exit
+ 1646  sudo pip install --upgrade youtube_dl
+ 1647  locate bash
+ 1648  locate .bash
+ 1649  youtube-dl -U
+ 1650  ls
+ 1651  nano ~/.config/gtk-3.0/settings.ini
+ 1652  sudo cp /usr/share/themes/Adwaita/gtk-2.0/gtkrc /usr/share/themes/Adwaita/gtk-2.0/gtkrc.bak
+ 1653  sudo nano /usr/share/themes/Adwaita/gtk-2.0/gtkrc
+ 1654  exit
+ 1655  mocp
+ 1656  cd Music/
+ 1657  ls
+ 1658  mv Battleme\ -\ Hey\ Hey\,\ My\ My\ \(Sons\ of\ Anarchy\ S03E13\)-PbeIv39s04s.mp3  Battleme-Hey\ Hey\,\My\ My.mp3 
+ 1659  ls
+ 1660  mv 12\ -\ \(Sons\ of\ Anarchy\)\ Alison\ Mosshart\ \&\ The\ Forest\ Rangers\ -\ What\ A\ Wonderful\ World\ \[HD\ Audio\].mp3  Alison\ Mosshart\ \&\ The\ Forest\ Rangers\ -\ what\ A\ Wonderful\ World.mp3 
+ 1661  ls
+ 1662  exit
+ 1663  mocp
+ 1664  exit
+ 1665  cd bin/bash/
+ 1666  ls
+ 1667  ./utube-dl.sh 
+ 1668  exit
+ 1669  ls
+ 1670  ls -al
+ 1671  ls- al
+ 1672  ls -al
+ 1673  exit
+ 1674  mocp
+ 1675  exit
+ 1676  ls
+ 1677  cd bin
+ 1678  ls
+ 1679  cd c
+ 1680  ls
+ 1681  cat clock.c 
+ 1682  cat dd.c
+ 1683  cat clock.c dd.c 
+ 1684  paste clock.c dd.c 
+ 1685  sudo service network-manager stop
+ 1686  sudo wifite
+ 1687  exit
+ 1688  mocp
+ 1689  exit
+ 1690  cd bin/vpn/epsilon/
+ 1691  ls
+ 1692  sudo openvpn --config epsilon-development.ovpn 
+ 1693  exit
+ 1694  mocp
+ 1695  exit
+ 1696  sudo apt-cache search qt-designer
+ 1697  sudo apt-cache search qt*
+ 1698  sudo apt-cache search qt* | grep qt*
+ 1699  sudo apt-cache search qtcreator
+ 1700  sudo apt-cache show qtcreator
+ 1701  sudo apt-get install  qtcreator
+ 1702  sudo apt-cache show eclipse
+ 1703  sudo apt-get install  eclipse
+ 1704  sudo apt-get remove eclipse && sudo apt-get autoremove
+ 1705  sudo apt-get install  moll
+ 1706  sudo apt-get install  gcstar
+ 1707  exit
+ 1708  mocp
+ 1709  exit
+ 1710  ping 8.8.8.8
+ 1711  pin 192.168.3.1
+ 1712  ping 192.168.3.1
+ 1713  53+17
+ 1714  expr 53+17
+ 1715  expr "53+17"
+ 1716  bash expr 53+17
+ 1717  bash 53+17
+ 1718  a= 53+17
+ 1719  a=53+17
+ 1720  a
+ 1721  print a
+ 1722  echo a
+ 1723  a=53+17
+ 1724  a
+ 1725  print a
+ 1726  b=53+17
+ 1727  print b
+ 1728  print `b`
+ 1729  ((53+17))
+ 1730  echo $((53+17))
+ 1731  echo (53+17)
+ 1732  echo ((53+17))
+ 1733  echo $((53+17))
+ 1734  ping 192.168.3.1
+ 1735  sudo service network-manager restart
+ 1736  ping 192.168.3.1
+ 1737  exit
+ 1738  sudo apt-cache search gcstar
+ 1739  exit
+ 1740  mocp
+ 1741  exit
+ 1742  df -h
+ 1743  exit
+ 1744  df -hl
+ 1745  dh
+ 1746  w:
+ 1747  w
+ 1748  pwd
+ 1749  /media/xaris/
+ 1750  cd /media/xaris/
+ 1751  ls
+ 1752  $username
+ 1753  echo $username
+ 1754  echo ($username)
+ 1755  echo (($username))
+ 1756  echo ($(username))
+ 1757  echo $((username))
+ 1758  echo $(username)
+ 1759  echo $username
+ 1760  print $username
+ 1761  print $user
+ 1762  echo $user
+ 1763  echo "$user"
+ 1764  echo "$username"
+ 1765  print $USER
+ 1766  print $USERNAME
+ 1767  print "$USERNAME"
+ 1768  echo $USERNAME
+ 1769  echo $USER
+ 1770  echo "$USER"
+ 1771  cd ../../
+ 1772  cd /media/$USER/MyPassport
+ 1773  ls
+ 1774  cd ..
+ 1775  cd ../../
+ 1776  ls
+ 1777  cd ~
+ 1778  ls
+ 1779  cd /root
+ 1780  su
+ 1781  clear
+ 1782  id
+ 1783  id -u
+ 1784  id -n
+ 1785  id -u -n
+ 1786  history | grep mount
+ 1787  history | grep "mount"
+ 1788  echo "$HISTSIZE"
+ 1789  nano .bashrc 
+ 1790  cat history
+ 1791  ls history*
+ 1792  ls *bash*
+ 1793  ls -l bash*
+ 1794  ls -al *bash*
+ 1795  ls -al bashrc
+ 1796  ls -al .bashrc
+ 1797  ls -al .ba*
+ 1798  cat .bash_history 
+ 1799  sort .bash_history | grep *mount* > aa
+ 1800  cat aa
+ 1801  rm aa
+ 1802  sort .bash_history | grep mount > aa
+ 1803  cat aa
+ 1804  rm aa
+ 1805  sort .bash_history | grep "sudo mount"
+ 1806  sort .bash_history
+ 1807  clear
+ 1808  sudo mount //192.168.1.1/public ~/Public
+ 1809  mount -h
+ 1810  sudo mount -t ntfs  //192.168.1.1/public ~/Public
+ 1811  sudo mount -t cifs  //192.168.1.1/public ~/Public
+ 1812  sudo mount -t cifs  192.168.1.1/public ~/Public
+ 1813  sudo mount -t ntfs  192.168.1.1/public ~/Public
+ 1814  sudo mount -t cifs  /192.168.1.1/public ~/Public
+ 1815  sudo mount /192.168.1.1/public ~/Public
+ 1816  sudo mount /192.168.1.1/Public ~/Public
+ 1817  ls ~/Public/
+ 1818  sudo mount -o -t cifs  /192.168.1.1/Public ~/Public
+ 1819  sudo mount -t cifs  /192.168.1.1/Public ~/Public
+ 1820  sudo mount -t cifs  /192.168.1.1/public ~/Public
+ 1821  sudo mount -t cifs  //192.168.1.1/public ~/Public
+ 1822  sudo mount -t cifs  //192.168.1.1/public ~/Public -o username=root
+ 1823  ls ~/Public/
+ 1824  sudo umount ~/Public/
+ 1825  sudo mount -t cifs //192.168.1.2/Users/arvanitis ~/Public -o username=arvanitis,password=arva123!
+ 1826  ls ~/Public/
+ 1827  sudo umount ~/Public/
+ 1828  ls
+ 1829  exit
+ 1830  cat bin/h4k/wifi
+ 1831  ls bin/h4k/
+ 1832  ls ~/Document
+ 1833  ls ~/Documents
+ 1834  ls notes/
+ 1835  cat notes/crack_wps 
+ 1836  cat notes/crack_wps exit
+ 1837  exit
+ 1838  su -
+ 1839  exit
+ 1840  su -
+ 1841  cd var
+ 1842  cd /var
+ 1843  ls
+ 1844  cd log
+ 1845  ls
+ 1846  ls -alh
+ 1847  sort ls -alh
+ 1848  t ls -alhf
+ 1849  ls -h
+ 1850  ls --help
+ 1851  t ls -alhS
+ 1852  ls -alhS
+ 1853  sudo du -ah
+ 1854  su -
+ 1855  ls -alhS
+ 1856  su -
+ 1857  ls -alhS
+ 1858  exit
+ 1859  airmon-ng
+ 1860  sudo airmon-ng
+ 1861  sudo airmon-ng stop mon0
+ 1862  exit
+ 1863  su -
+ 1864  cd bin/vpn/epsilon/
+ 1865  sudo openvpn --config epsilon-development.ovpn 
+ 1866  exit
+ 1867  cd /var/log
+ 1868  ls
+ 1869  ls -alhS
+ 1870  ls -alhS | head
+ 1871  clear
+ 1872  ping 8.8.8.8
+ 1873  w
+ 1874  W:
+ 1875  W;
+ 1876  w:
+ 1877  w
+ 1878  pwd
+ 1879  clear
+ 1880  cd ~
+ 1881  sudo apt-cache search qtcreator
+ 1882  sudo apt-install qtcreator
+ 1883  sudo apt-get install qtcreator
+ 1884  cd bin/python/
+ 1885  ls
+ 1886  cd fgGp/
+ 1887  python
+ 1888  exit
+ 1889  mocp
+ 1890  exit
+ 1891  cd /media/xaris/
+ 1892  ls
+ 1893  cd 1CAB-74FA/
+ 1894  ls
+ 1895  df -h
+ 1896  ls
+ 1897  ls -al
+ 1898  cat Popcorn-Time 
+ 1899  bash Popcorn-Time 
+ 1900  sudo bash Popcorn-Time 
+ 1901  ./Popcorn-Time 
+ 1902  sudo ln -s /lib/x86_64-linux-gnu/libudev.so.1 /lib/x86_64-linux-gnu/libudev.so.0
+ 1903  ./Popcorn-Time 
+ 1904  cd ..
+ 1905  mv Popcorn-Time-linux64 PopcornTime
+ 1906  cd Popcorn
+ 1907  cd PopcornTime/
+ 1908  sudo ./Popcorn-Time 
+ 1909  ./Popcorn-Time 
+ 1910  sudo ./Popcorn-Time 
+ 1911  cd bin/vpn/epsilon/
+ 1912  sudo openvpn --config epsilon-development.ovpn 
+ 1913  cd bin/vpn/epsilon/
+ 1914  sudo openvpn --config epsilon-development.ovpn 
+ 1915  mocp
+ 1916  ssh 192.168.2.3
+ 1917  ssh xaris@192.168.2.3
+ 1918  exit
+ 1919  ping 192.168.2.1
+ 1920  net view
+ 1921  ping 192.168.2.1
+ 1922  exit
+ 1923  ls -al ~/.ssh/
+ 1924  ssh-keygen -t rsa -b 4096 -C "xaris@gmx.com"
+ 1925  ssh-add ~/.ssh/id_rsa
+ 1926  ssh-keygen -t rsa -b 4096 -C "xaris@gmx.com"
+ 1927  ssh-add ~/.ssh/id_rsa
+ 1928  ls
+ 1929  cat ~/.ssh/id_rsa.pub 
+ 1930  ssh -T git@github.com
+ 1931  ls
+ 1932  git clone git@github.com:XarisA/bar-client.git
+ 1933  cd bar-client/
+ 1934  ls
+ 1935  cd ..
+ 1936  cd bar-client/
+ 1937  git pull origin master
+ 1938  git staus
+ 1939  git status
+ 1940  ls
+ 1941  subl .
+ 1942  d ..
+ 1943  cd ..
+ 1944  git clone git@github.com:XarisA/bar-server.git
+ 1945  cd bar-server/
+ 1946  ls
+ 1947  cd ~/bar-client/
+ 1948  ls
+ 1949  mkdir src
+ 1950  cd src/
+ 1951  ls
+ 1952  touch app.js
+ 1953  mkdir views
+ 1954  mkdir controllers
+ 1955  mkdir config
+ 1956  mkdir directives
+ 1957  mkdir services
+ 1958  mkdir vendor
+ 1959  ls
+ 1960  cd ..
+ 1961  python -m SimpleHTTPServer 
+ 1962  history > history.bak
