@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+.padding {
+  padding: 10px;
+  border: solid 1px red;
+}
+.nav-container {
+  background-color: #222;
+  padding-top:10px;
+  height: 100%;
+}

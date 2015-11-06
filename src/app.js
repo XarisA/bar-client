@@ -12,7 +12,7 @@
 	    $routeProvider.
 	      when('/', {
 	        templateUrl: 'src/views/default.html',
-	        controller: 'DefaultController'
+	        // controller: 'DefaultController'
 	      }).
 	      when('/users', {
 	        templateUrl: '/src/views/users.html',
