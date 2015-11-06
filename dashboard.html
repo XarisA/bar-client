@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html ng-app="BarClient">
+	<head>
+		<base href="/">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<nav class="col-sm-2 nav-container">
+			<ul class="nav nav-pills nav-stacked">
+				<li class="active">
+					<a href="/"><i class="fa fa-home"></i>&nbsp;Home</a>
+				</li>
+				<li>
+					<a href="/users"><i class="fa fa-user">&nbsp;</i>Profile</a>
+				</li>
+				<li>
+					<input type="text" class="form-control input-sm" placeholder="Search" />
+				</li>
+			</ul>
+		</nav>
+		<div class="col-sm-10">
+
+			<div class="container padding" ng-view>
+
+			</div>
+		</div>
+		<!-- Kato kato menoun afta panta -->
+		<script type="text/javascript" src="src/vendor/angular/angular.min.js"></script>
+		<script type="text/javascript" src="src/vendor/angular/angular-route.min.js"></script>
+		<script type="text/javascript" src="src/vendor/angular/ui-bootstrap-tpls-0.14.3.min.js"></script>
+
+		<!-- Kai twra ta apps -->
+		<script type="text/javascript" src="src/app.js"></script>
+	</body>
+</html>
