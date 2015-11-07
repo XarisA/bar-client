@@ -10,16 +10,20 @@
 	function config($routeProvider, $locationProvider) {
 
 	    $routeProvider.
-	      when('/', {
+	      when('/dashboard', {
 	        templateUrl: 'src/views/default.html',
 	        // controller: 'DefaultController'
 	      }).
-	      when('/users', {
-	        templateUrl: '/src/views/users.html',
-	        // controller: 'UsersController'
+	      when('/dashboard/profile', {
+	      	templateUrl: 'src/views/profile.html',
+	      	// controller: 'ProfileController'
+	      }).
+	      when('/dashboard/about', {
+	      	templateUrl: 'src/views/about.html',
+	      	// controller: 'AboutController'
 	      }).
 	      otherwise({
-	        redirectTo: '/'
+	        redirectTo: '/dashboard'
 	      });
 	      $locationProvider.html5Mode(true);
 	
