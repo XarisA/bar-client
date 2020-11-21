@@ -2,7 +2,7 @@
 
 A Barclient website prototype in (javascript, css, html, mongo, bootstrap)
 
-This site is an interactive prototype for the main technologies used for the creation of a bar-client developed as an appointment booking for a known bar in Kifisia.
+This site is an interactive prototype with the main technologies used in the creation of a bar-client which was developed and as an appointment booking website for a known bar in Kifisia.
 
 ## Sample
 
