@@ -2,7 +2,7 @@
 
 A Barclient website prototype in (javascript, css, html, mongo, bootstrap)
 
-This site is an interactive prototype with the main technologies used in the creation of a bar-client which was developed as an appointment booking website for a well-known bar in Kifisia, Greece.
+This site is an interactive prototype with the main technologies used in the creation of a bar-client which was developed as an appointment booking website for a well known bar in Kifisia, Greece.
 
 ## Sample
 
